@@ -1,0 +1,36 @@
+Reading file ass1.pls ....Please wait
+The input file ass1.pls has not been completely loaded.
+Last character read from the input file is: t 116
+Input file size: 327
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  200
+The current size of the buffer is:  200
+The operational mode of the buffer is:   0
+The increment factor of the buffer is:  0
+The current mark of the buffer is:  200
+The value of the flags field is: FFFC
+
+Printing buffer contents:
+
+Compilers  are  fundamental  to  modern  computing.
+They  act  as  translators,  transforming  human-oriented
+language  into  computer-oriented  machine-language.
+A compiler allows virtually all compu
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  201
+The current size of the buffer is:  201
+The operational mode of the buffer is:   0
+The increment factor of the buffer is:  0
+The current mark of the buffer is:  201
+The value of the flags field is: FFFE
+
+Printing buffer contents:
+
+Compilers  are  fundamental  to  modern  computing.
+They  act  as  translators,  transforming  human-oriented
+language  into  computer-oriented  machine-language.
+A compiler allows virtually all compuÿ
